@@ -4,4 +4,4 @@ This is my 1st lab in Comp3111 - Software Engineering
 </pre>
 
 Here's the screenshot of my 1st lab project in intelliJ
-![](ScrCapLab1.png)
+![](https://github.com/VincentComp/Comp3111LEx/blob/73262b58257658b4904ebb82ee4c51d6715dd911/ScrCapLab1.png)
