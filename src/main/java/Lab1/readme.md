@@ -4,4 +4,4 @@ This is my 1st lab in Comp3111 - Software Engineering
 </pre>
 
 Here's the screenshot of my 1st lab project in intelliJ
-![](ScrCapLab1.png)
+![](/Users/shingshing/Documents/UST/java/Comp\ 3111/Comp3111LEx/ScrCapLab1.png)
